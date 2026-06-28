@@ -3,11 +3,18 @@
 Organized space for design ideas, collections, and creative work.
 
 ## Structure
+- **Classes/** — Art class work and exercises
+  - CharacterDesign/
+  - EnvironmentDesign/
+  - DigitalPainting/
+  - Animation/
+- **Concepts/** — Character concepts, moodboards, color studies
 - **Ideas/** — Concept documents and project seeds
-  - GameDesign/ — Game concepts and mechanics
-  - WebDesign/ — Website and UI ideas
-  - Art/ — Art direction and visual concepts
+  - WebDesign/
+  - Art/
 - **Collections/** — Curated inspiration and resources
 - **Reference/** — Reference materials and assets
 - **Templates/** — Reusable starting points
-- **Portfolio/** — Completed work showcase
+- **Portfolio/** — Work showcase
+  - Completed/
+  - InProgress/
